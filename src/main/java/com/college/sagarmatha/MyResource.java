@@ -19,4 +19,8 @@ public class MyResource {
     public String getIt() {
         return "Hi there!";
     }
+    
+    public String getTest() {
+    	
+    }
 }
