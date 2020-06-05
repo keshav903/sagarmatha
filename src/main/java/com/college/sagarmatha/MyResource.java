@@ -21,7 +21,7 @@ public class MyResource {
     }
     
     public String getTest() {
-    	return 1234;
+    	return "daf2";
     	
     }
 }
