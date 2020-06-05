@@ -21,7 +21,7 @@ public class MyResource {
     }
     
     public String getTest() {
-    	return "test";
+    	return 1234;
     	
     }
 }
